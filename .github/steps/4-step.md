@@ -96,7 +96,7 @@ Now that we have both Azure DevOps Pipelines and Azure Boards integrated with Gi
    <details>
    <summary>📸 Show screenshot</summary><br/>
 
-   <img width="312" height="166" alt="Branch created in GitHub from an Azure DevOps work item" src="../images/create-branch-workitem.png" />
+   <img width="312" height="166" alt="Branch created in GitHub from an Azure DevOps work item" src="https://github.com/FidelusAleksander/skills-migrate-ado-repository/blob/main/.github/images/create-branch-workitem.png?raw=true" />
 
    </details>
 
@@ -120,7 +120,7 @@ Now that we have both Azure DevOps Pipelines and Azure Boards integrated with Gi
    <details>
    <summary>📸 Show screenshot</summary><br/>
 
-   <img width="316" height="207" alt="Commit linked to Azure DevOps work item in the Development section" src="../images/commit-linked-workitem.png" />
+   <img width="316" height="207" alt="Commit linked to Azure DevOps work item in the Development section" src="https://github.com/FidelusAleksander/skills-migrate-ado-repository/blob/main/.github/images/commit-linked-workitem.png?raw=true" />
 
    </details>
 
@@ -145,7 +145,7 @@ Now that we have both Azure DevOps Pipelines and Azure Boards integrated with Gi
    <details>
    <summary>📸 Show screenshot</summary><br/>
 
-   <img width="337" height="229" alt="Pull request linked to Azure DevOps work item in the Development section" src="../images/pull-request-linked-workitem.png" />
+   <img width="337" height="229" alt="Pull request linked to Azure DevOps work item in the Development section" src="https://github.com/FidelusAleksander/skills-migrate-ado-repository/blob/main/.github/images/pull-request-linked-workitem.png?raw=true" />
 
    </details>
 
@@ -154,7 +154,7 @@ Now that we have both Azure DevOps Pipelines and Azure Boards integrated with Gi
    <details>
    <summary>📸 Show screenshot</summary><br/>
 
-   <img width="680" height="302" alt="Azure Pipelines build status shown in a GitHub pull request" src="../images/azure-pipelines-build-status.png" />
+   <img width="680" height="302" alt="Azure Pipelines build status shown in a GitHub pull request" src="https://github.com/FidelusAleksander/skills-migrate-ado-repository/blob/main/.github/images/azure-pipelines-build-status.png?raw=true" />
 
    </details>
 
